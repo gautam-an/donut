@@ -1,6 +1,6 @@
 # donut
 
-this project is based on this [website](https://www.a1k0n.net/2011/07/20/donut-math.html)
+this project is based on the following [website](https://www.a1k0n.net/2011/07/20/donut-math.html)
 
 - this program draws a rotating 3D torus (donut shape) using ASCII characters in the terminal
 - it uses trigonometric functions and character shading to simulate depth and rotation
@@ -15,3 +15,7 @@ this project is based on this [website](https://www.a1k0n.net/2011/07/20/donut-m
    ```bash
    gcc donut.c -o donut -lm
    ./donut
+
+### demo:
+
+<img src="./assets/donut_demo.gif" width="500"/>
